@@ -2,6 +2,7 @@
 
 #menu ul{
     list-style: none;
+    color: aliceblue;
     margin: 0;
     padding: o;
 
@@ -27,4 +28,38 @@
 }
 nav{
     color: rgb(4, 99, 201);
+}
+/*Menu servicios letra blanca*/
+
+#menu_Servicios{
+    color: rgb(240, 232, 232);
+    text-decoration: none;
+    display: block;
+    padding: 12px 26px;
+    font-family: calistoga;
+    font-size: 10px;
+
+}
+#menu_Servicios ul{
+    list-style: none;
+    margin: 0;
+    padding: o;
+
+}
+#menu_Servicios ul{
+    list-style: none;
+    margin: 0;
+    padding: o;
+
+}
+
+#menu_Servicios ul li{
+    float: left;
+}
+nav #center2{
+    color: black;
+    font-family: calistoga;
+    padding: 12px 26px;
+    font-size: 20px;
+    
 }
